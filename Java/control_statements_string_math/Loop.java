@@ -28,5 +28,6 @@ public class Loop {
         for (String name : array) {
             System.out.println(name);
         }
+
     }
 }

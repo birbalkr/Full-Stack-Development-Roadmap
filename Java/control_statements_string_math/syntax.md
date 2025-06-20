@@ -40,3 +40,25 @@
       4. Not straightforward to break out of a forEach loop.
       5. When you need to perform an action on each array element
          . and don't need to break early.
+
+5. Recursion
+
+   1. Self-Calling Function: Recursion is when a function calls itself.
+   2. Base Case: Essential to stop recursion and prevent infinite loops.
+   3. Recursive Case: The part where the function makes a recursive call.
+   4. Stack Overflow Risk: Excessive recursion can cause stack overflow errors.
+   5. Problem Solving: Ideal for problems divisible into similar, smaller
+      problems.
+
+6. CHALLENGE
+   1. Create a program using do-while to find password checker until a valid password is entered.
+   2. Create a program using do-while to implement a number guessing game.
+   3. Create a program using for loop multiplication table for a number.
+   4. Create a program using for to display if a number is prime or not.
+   5. Create a program using for-each to find the maximum value in an integer array.
+   6. Create a program using for-each to the occurrences of a specific element in an array.
+   7. Create a program using break to read inputs from the user in a loop and break the loop if a specific keyword (like "exit") is entered.
+   8. Create a program using continue to sum all positive numbers entered by the user; skip any negative numbers.
+   9. Create a program using continue to print only even numbers using continue for odd numbers.
+   10. Create a program using recursion to display the Fibonacci series upto a certain number.
+   11. Create a program using recursion to check if a string is a palindrome using recursion.
