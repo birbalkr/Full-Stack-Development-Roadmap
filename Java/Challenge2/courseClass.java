@@ -12,7 +12,7 @@ class courseClass {
     courseClass(String courseName) {
         this.courseName = courseName;
         this.enrollments = 0;
-        this.enrolledStudents = new String[maxCapacity];
+        this.enrolledStudents = new String[maxCapacity];>
     }
 
     static void setMaxCapacity(int maxCapacity) {
